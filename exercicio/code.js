@@ -9,11 +9,11 @@ function troca2(){
 }
 
 function troca3(){
-    window.location.href = "animais.html"
+    window.location.href = "tec.html"
 }
 
 function troca4(){
-    window.location.href = "consultas.html"
+    window.location.href = "curio.html"
 }
 
 function troca5(){
